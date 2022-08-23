@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BootDataJPAProj1-CrudRepository/BootDataJPAProj1-CrudRepository.iml" filepath="$PROJECT_DIR$/BootDataJPAProj1-CrudRepository/BootDataJPAProj1-CrudRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJPAProj2-PagingAndSortingRepo/BootDataJPAProj1-CrudRepository (1).iml" filepath="$PROJECT_DIR$/BootDataJPAProj2-PagingAndSortingRepo/BootDataJPAProj1-CrudRepository (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj7-JPQL-HQL/BootDataJpaProj3-JpaRepository.iml" filepath="$PROJECT_DIR$/BootDataJpaProj7-JPQL-HQL/BootDataJpaProj3-JpaRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj9-NativeSQL/BootDataJpaProj3-JpaRepository (1).iml" filepath="$PROJECT_DIR$/BootDataJpaProj9-NativeSQL/BootDataJpaProj3-JpaRepository (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj3-JpaRepository/BootDataJpaProj3-JpaRepository (2).iml" filepath="$PROJECT_DIR$/BootDataJpaProj3-JpaRepository/BootDataJpaProj3-JpaRepository (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj4-FINDERMethods/BootDataJpaProj3-JpaRepository (3).iml" filepath="$PROJECT_DIR$/BootDataJpaProj4-FINDERMethods/BootDataJpaProj3-JpaRepository (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj8-NonSelectQueries/BootDataJpaProj3-JpaRepository (4).iml" filepath="$PROJECT_DIR$/BootDataJpaProj8-NonSelectQueries/BootDataJpaProj3-JpaRepository (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj6-JPQL-HQLUsing@QueryMethods/BootDataJpaProj3-JpaRepository (5).iml" filepath="$PROJECT_DIR$/BootDataJpaProj6-JPQL-HQLUsing@QueryMethods/BootDataJpaProj3-JpaRepository (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataJpaProj5-FINDERMethods-DynamicProjections/BootDataJpaProj3-JpaRepository (6).iml" filepath="$PROJECT_DIR$/BootDataJpaProj5-FINDERMethods-DynamicProjections/BootDataJpaProj3-JpaRepository (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj10-TxMgmt/BootDataProj10-TxMgmt.iml" filepath="$PROJECT_DIR$/BootDataProj10-TxMgmt/BootDataProj10-TxMgmt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj11-CallingProcedure/BootDataProj11-CallingProcedure.iml" filepath="$PROJECT_DIR$/BootDataProj11-CallingProcedure/BootDataProj11-CallingProcedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj12-CallingPL-SQLFuction/BootDataProj11-CallingProcedure (1).iml" filepath="$PROJECT_DIR$/BootDataProj12-CallingPL-SQLFuction/BootDataProj11-CallingProcedure (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj14-WorkingWithDateValues/BootDataProj13-CallingMySQLPL-SQLprocedure.iml" filepath="$PROJECT_DIR$/BootDataProj14-WorkingWithDateValues/BootDataProj13-CallingMySQLPL-SQLprocedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj13-CallingMySQLPL-SQLprocedure/BootDataProj13-CallingMySQLPL-SQLprocedure (1).iml" filepath="$PROJECT_DIR$/BootDataProj13-CallingMySQLPL-SQLprocedure/BootDataProj13-CallingMySQLPL-SQLprocedure (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj15-WorkingWithLOBs/BootDataProj15-WorkingWithLOBs.iml" filepath="$PROJECT_DIR$/BootDataProj15-WorkingWithLOBs/BootDataProj15-WorkingWithLOBs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootDataProj16-CollectionMapping/BootDataProj16-CollectionMapping.iml" filepath="$PROJECT_DIR$/BootDataProj16-CollectionMapping/BootDataProj16-CollectionMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj01-BasicDI/BootProj01-BasicDI.iml" filepath="$PROJECT_DIR$/BootProj01-BasicDI/BootProj01-BasicDI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj02-DI/BootProj02-DI.iml" filepath="$PROJECT_DIR$/BootProj02-DI/BootProj02-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj03-LayeredApp/BootProj03-LayeredApp.iml" filepath="$PROJECT_DIR$/BootProj03-LayeredApp/BootProj03-LayeredApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj12-LayeredApp-Runners/BootProj03-LayeredApp (1).iml" filepath="$PROJECT_DIR$/BootProj12-LayeredApp-Runners/BootProj03-LayeredApp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj10-LayeredApp-Profiles--ymlfiles/BootProj03-LayeredApp (2).iml" filepath="$PROJECT_DIR$/BootProj10-LayeredApp-Profiles--ymlfiles/BootProj03-LayeredApp (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj09-LayeredApp-Profiles-Properitesfiles/BootProj03-LayeredApp (3).iml" filepath="$PROJECT_DIR$/BootProj09-LayeredApp-Profiles-Properitesfiles/BootProj03-LayeredApp (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj11-LayeredApp-Profiles--single-yml-file/BootProj03-LayeredApp (4).iml" filepath="$PROJECT_DIR$/BootProj11-LayeredApp-Profiles--single-yml-file/BootProj03-LayeredApp (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj04-ValueAnnotation-SPEL/BootProj04-ValueAnnotation-SPEL.iml" filepath="$PROJECT_DIR$/BootProj04-ValueAnnotation-SPEL/BootProj04-ValueAnnotation-SPEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj05-ConfigurationProperties/BootProj05-ConfigurationProperties.iml" filepath="$PROJECT_DIR$/BootProj05-ConfigurationProperties/BootProj05-ConfigurationProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj08-Complex-Yml/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties.iml" filepath="$PROJECT_DIR$/BootProj08-Complex-Yml/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties (1).iml" filepath="$PROJECT_DIR$/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj07-Yml/BootProj07-Yml.iml" filepath="$PROJECT_DIR$/BootProj07-Yml/BootProj07-Yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootProj13-Runners-POC/BootProj13-Runners-POC.iml" filepath="$PROJECT_DIR$/BootProj13-Runners-POC/BootProj13-Runners-POC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NTSPBMS715-master.iml" filepath="$PROJECT_DIR$/.idea/NTSPBMS715-master.iml" />
+    </modules>
+  </component>
+</project>

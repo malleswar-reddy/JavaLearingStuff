@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BootDataJPAProj1-CrudRepository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJPAProj1-CrudRepository/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJPAProj2-PagingAndSortingRepo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJPAProj2-PagingAndSortingRepo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj3-JpaRepository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj4-FINDERMethods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj5-FINDERMethods-DynamicProjections/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj6-JPQL-HQLUsing@QueryMethods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj7-JPQL-HQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj8-NonSelectQueries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataJpaProj9-NativeSQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj10-TxMgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj11-CallingProcedure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj12-CallingPL-SQLFuction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj13-CallingMySQLPL-SQLprocedure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj14-WorkingWithDateValues/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj15-WorkingWithLOBs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootDataProj16-CollectionMapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj01-BasicDI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj02-DI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj03-LayeredApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj04-ValueAnnotation-SPEL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj05-ConfigurationProperties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj05-ConfigurationProperties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj07-Yml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj07-Yml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj08-Complex-Yml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj08-Complex-Yml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj09-LayeredApp-Profiles-Properitesfiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj10-LayeredApp-Profiles--ymlfiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj11-LayeredApp-Profiles--single-yml-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj12-LayeredApp-Runners/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj13-Runners-POC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootProj13-Runners-POC/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

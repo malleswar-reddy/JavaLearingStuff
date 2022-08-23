@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BootDataJpaProj3-JpaRepository (1)" />
+        <module name="BootDataJpaProj3-JpaRepository (3)" />
+        <module name="BootDataJPAProj1-CrudRepository (1)" />
+        <module name="BootDataProj11-CallingProcedure" />
+        <module name="BootDataJpaProj3-JpaRepository (5)" />
+        <module name="BootProj03-LayeredApp (4)" />
+        <module name="BootDataProj10-TxMgmt" />
+        <module name="BootProj03-LayeredApp" />
+        <module name="BootProj03-LayeredApp (2)" />
+        <module name="BootDataProj11-CallingProcedure (1)" />
+        <module name="BootProj07-Yml" />
+        <module name="BootProj04-ValueAnnotation-SPEL" />
+        <module name="BootProj13-Runners-POC" />
+        <module name="BootDataProj16-CollectionMapping" />
+        <module name="BootProj02-DI" />
+        <module name="BootDataJPAProj1-CrudRepository" />
+        <module name="BootDataJpaProj3-JpaRepository (2)" />
+        <module name="BootDataJpaProj3-JpaRepository (4)" />
+        <module name="BootDataJpaProj3-JpaRepository (6)" />
+        <module name="BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties (1)" />
+        <module name="BootDataProj13-CallingMySQLPL-SQLprocedure (1)" />
+        <module name="BootProj03-LayeredApp (3)" />
+        <module name="BootProj03-LayeredApp (1)" />
+        <module name="BootDataJpaProj3-JpaRepository" />
+        <module name="BootDataProj13-CallingMySQLPL-SQLprocedure" />
+        <module name="BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties" />
+        <module name="BootProj05-ConfigurationProperties" />
+        <module name="BootProj01-BasicDI" />
+        <module name="BootDataProj15-WorkingWithLOBs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BootDataJPAProj1-CrudRepository" target="18" />
+      <module name="BootDataJPAProj1-CrudRepository (1)" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository (1)" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository (2)" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository (3)" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository (4)" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository (5)" target="18" />
+      <module name="BootDataJpaProj3-JpaRepository (6)" target="18" />
+      <module name="BootDataProj10-TxMgmt" target="17" />
+      <module name="BootDataProj11-CallingProcedure" target="17" />
+      <module name="BootDataProj11-CallingProcedure (1)" target="17" />
+      <module name="BootDataProj13-CallingMySQLPL-SQLprocedure" target="17" />
+      <module name="BootDataProj13-CallingMySQLPL-SQLprocedure (1)" target="17" />
+      <module name="BootDataProj15-WorkingWithLOBs" target="17" />
+      <module name="BootDataProj16-CollectionMapping" target="17" />
+      <module name="BootProj01-BasicDI" target="17" />
+      <module name="BootProj02-DI" target="18" />
+      <module name="BootProj03-LayeredApp" target="17" />
+      <module name="BootProj03-LayeredApp (1)" target="17" />
+      <module name="BootProj03-LayeredApp (2)" target="17" />
+      <module name="BootProj03-LayeredApp (3)" target="17" />
+      <module name="BootProj03-LayeredApp (4)" target="17" />
+      <module name="BootProj04-ValueAnnotation-SPEL" target="18" />
+      <module name="BootProj05-ConfigurationProperties" target="18" />
+      <module name="BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties" target="18" />
+      <module name="BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties (1)" target="18" />
+      <module name="BootProj07-Yml" target="18" />
+      <module name="BootProj13-Runners-POC" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BootDataJPAProj1-CrudRepository" options="-parameters" />
+      <module name="BootDataJPAProj1-CrudRepository (1)" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository (1)" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository (2)" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository (3)" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository (4)" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository (5)" options="-parameters" />
+      <module name="BootDataJpaProj3-JpaRepository (6)" options="-parameters" />
+      <module name="BootDataProj10-TxMgmt" options="-parameters" />
+      <module name="BootDataProj11-CallingProcedure" options="-parameters" />
+      <module name="BootDataProj11-CallingProcedure (1)" options="-parameters" />
+      <module name="BootDataProj13-CallingMySQLPL-SQLprocedure" options="-parameters" />
+      <module name="BootDataProj13-CallingMySQLPL-SQLprocedure (1)" options="-parameters" />
+      <module name="BootDataProj15-WorkingWithLOBs" options="-parameters" />
+      <module name="BootDataProj16-CollectionMapping" options="-parameters" />
+      <module name="BootProj01-BasicDI" options="-parameters" />
+      <module name="BootProj02-DI" options="-parameters" />
+      <module name="BootProj03-LayeredApp" options="-parameters" />
+      <module name="BootProj03-LayeredApp (1)" options="-parameters" />
+      <module name="BootProj03-LayeredApp (2)" options="-parameters" />
+      <module name="BootProj03-LayeredApp (3)" options="-parameters" />
+      <module name="BootProj03-LayeredApp (4)" options="-parameters" />
+      <module name="BootProj04-ValueAnnotation-SPEL" options="-parameters" />
+      <module name="BootProj05-ConfigurationProperties" options="-parameters" />
+      <module name="BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties" options="-parameters" />
+      <module name="BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties (1)" options="-parameters" />
+      <module name="BootProj07-Yml" options="-parameters" />
+      <module name="BootProj13-Runners-POC" options="-parameters" />
+    </option>
+  </component>
+</project>

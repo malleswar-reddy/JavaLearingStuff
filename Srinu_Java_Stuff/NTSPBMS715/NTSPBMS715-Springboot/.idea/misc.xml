@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/BootProj02-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj07-Yml/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj01-BasicDI/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj10-TxMgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj03-LayeredApp/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj08-Complex-Yml/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj13-Runners-POC/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj7-JPQL-HQL/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj9-NativeSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj12-LayeredApp-Runners/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj3-JpaRepository/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj4-FINDERMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj15-WorkingWithLOBs/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJPAProj1-CrudRepository/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj11-CallingProcedure/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj04-ValueAnnotation-SPEL/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj16-CollectionMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj8-NonSelectQueries/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj05-ConfigurationProperties/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj12-CallingPL-SQLFuction/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj14-WorkingWithDateValues/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJPAProj2-PagingAndSortingRepo/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj10-LayeredApp-Profiles--ymlfiles/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataProj13-CallingMySQLPL-SQLprocedure/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj6-JPQL-HQLUsing@QueryMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj09-LayeredApp-Profiles-Properitesfiles/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj11-LayeredApp-Profiles--single-yml-file/pom.xml" />
+        <option value="$PROJECT_DIR$/BootDataJpaProj5-FINDERMethods-DynamicProjections/pom.xml" />
+        <option value="$PROJECT_DIR$/BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
