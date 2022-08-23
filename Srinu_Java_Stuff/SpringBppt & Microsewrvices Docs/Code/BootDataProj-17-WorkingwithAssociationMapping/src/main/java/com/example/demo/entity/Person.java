@@ -31,9 +31,12 @@ public class Person implements Serializable{
 	private String Pname;
 	@Column(length=20)
 	private String paddr;
-	@OneToMany(targetEntity=PhoneNumber.class,cascade=CascadeType.ALL,fetch=FetchType.LAZY)
+	@OneToMany(targetEntity=PhoneNumber.class,cascade=CascadeType.ALL,fetch=FetchType.EAGER)
 	@JoinColumn(name="PERSON_ID",referencedColumnName="PID")
 	Set<PhoneNumber> phones;
+	public Person(){
+		System.out.println("Person::0-param constructor"+this.getClass());
+	}
 	public Integer getPid() {
 		return pid;
 	}

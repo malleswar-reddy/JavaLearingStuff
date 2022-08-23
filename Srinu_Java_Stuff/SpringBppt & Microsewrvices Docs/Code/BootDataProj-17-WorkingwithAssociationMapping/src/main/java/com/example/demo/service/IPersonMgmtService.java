@@ -8,5 +8,7 @@ import com.example.demo.entity.PhoneNumber;
 public interface IPersonMgmtService {
 	public String saveDataUsingPerson(Person per);
 	public String saveDataUsingPhoneNumber(Set<PhoneNumber> phoneSet);
+	public Iterable<Person> loadDataUsingParent();
+	public Iterable<PhoneNumber> loadDataUsingChild();
 
 }

@@ -1,5 +1,7 @@
 package com.example.demo.service;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Set;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,11 +23,33 @@ public class PersonMgmtImplService implements IPersonMgmtService {
 	public String saveDataUsingPerson(Person per) {
 	    return "Person and his PhoneNumber saved with"+personRepo.save(per)+"id value";
 	}
-	@Override
 
+	@Override
 	public String saveDataUsingPhoneNumber(Set<PhoneNumber> phoneSet) {
-	   int count=phoneRepo.saveAll(phoneSet).size();
-	   return count+"no.of PhoneNumber obj mapped to Rerson obj are saved";
+		List<String> msgs=new ArrayList<String>();
+		if(phoneSet.size()>0){
+			for(PhoneNumber ph:phoneSet){
+				msgs.add("PhoneNumbers are mapped  Person saved with"+phoneRepo.save(ph)+"Id value");
+			}
+		}
+		return msgs.toString();
 	}
+
+	@Override
+	public Iterable<Person> loadDataUsingParent() {
+		Iterable<Person> it=personRepo.findAll();
+		return it;
+	}
+
+	@Override
+	public Iterable<PhoneNumber> loadDataUsingChild() {
+		return phoneRepo.findAll();
+	}
+
+
+//	public String saveDataUsingPhoneNumber(Set<PhoneNumber> phoneSet) {
+//	   int count=phoneRepo.saveAll(phoneSet).size();
+//	   return count+"no.of PhoneNumber obj mapped to Person obj are saved";
+//	}
 
 }
