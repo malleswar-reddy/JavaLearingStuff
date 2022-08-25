@@ -100,11 +100,14 @@ public class AssociationMappingTestRunner implements CommandLineRunner {
 //                System.out.println("Child::"+ph);
 //            });
 //        });
-        service.loadDataUsingChild().forEach(ph->{
-            System.out.println("Child::"+ph);
-            Person person=ph.getPerson();
-            System.out.println("Parent::"+person);
-            System.out.println("---------");
-        });
+//        service.loadDataUsingChild().forEach(ph->{
+//            System.out.println("Child::"+ph);
+//            Person person=ph.getPerson();
+//            System.out.println("Parent::"+person);
+//            System.out.println("---------");
+//        });
+        //System.out.println(service.deletePersonAndHisPhoneNumbeByPid(1021));
+        //System.out.println(service.deleteAllPhoneNumbersOrfaPerson(1001));
+        System.out.println(service.removeAllPhoneNumbersOfaPersonByPid(1000));
     }
 }

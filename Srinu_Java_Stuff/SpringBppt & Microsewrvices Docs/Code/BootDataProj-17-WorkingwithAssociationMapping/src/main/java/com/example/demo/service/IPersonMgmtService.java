@@ -11,4 +11,8 @@ public interface IPersonMgmtService {
 	public Iterable<Person> loadDataUsingParent();
 	public Iterable<PhoneNumber> loadDataUsingChild();
 
+	public String deletePersonAndHisPhoneNumbeByPid(int pid);
+	public String deleteAllPhoneNumbersOrfaPerson(int pid);
+	public String removeAllPhoneNumbersOfaPersonByPid(int pid);
+
 }
