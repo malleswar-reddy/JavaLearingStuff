@@ -1,5 +1,6 @@
 package com.example.demo.service;
 
+import java.util.List;
 import java.util.Set;
 
 import com.example.demo.entity.Person;
@@ -14,5 +15,6 @@ public interface IPersonMgmtService {
 	public String deletePersonAndHisPhoneNumbeByPid(int pid);
 	public String deleteAllPhoneNumbersOrfaPerson(int pid);
 	public String removeAllPhoneNumbersOfaPersonByPid(int pid);
+	public List<Object[]> getDataUsingPersonByJoins();
 
 }

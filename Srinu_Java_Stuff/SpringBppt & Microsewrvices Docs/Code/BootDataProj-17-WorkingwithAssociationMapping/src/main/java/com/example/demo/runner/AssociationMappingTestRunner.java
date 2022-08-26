@@ -108,6 +108,12 @@ public class AssociationMappingTestRunner implements CommandLineRunner {
 //        });
         //System.out.println(service.deletePersonAndHisPhoneNumbeByPid(1021));
         //System.out.println(service.deleteAllPhoneNumbersOrfaPerson(1001));
-        System.out.println(service.removeAllPhoneNumbersOfaPersonByPid(1000));
+       //System.out.println(service.removeAllPhoneNumbersOfaPersonByPid(1000));
+        service.getDataUsingPersonByJoins().forEach(row->{
+            for(Object obj:row){
+                System.out.println(obj+"");
+            }
+            System.out.println();
+        });
     }
 }

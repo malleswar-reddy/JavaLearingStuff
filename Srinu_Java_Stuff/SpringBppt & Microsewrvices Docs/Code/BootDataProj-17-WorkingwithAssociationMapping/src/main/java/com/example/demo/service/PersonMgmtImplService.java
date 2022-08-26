@@ -92,6 +92,11 @@ public class PersonMgmtImplService implements IPersonMgmtService {
 		}
 	}
 
+	@Override
+	public List<Object[]> getDataUsingPersonByJoins() {
+		return personRepo.fetchDataUsingPersonByJoins();
+	}
+
 
 //	public String saveDataUsingPhoneNumber(Set<PhoneNumber> phoneSet) {
 //	   int count=phoneRepo.saveAll(phoneSet).size();
