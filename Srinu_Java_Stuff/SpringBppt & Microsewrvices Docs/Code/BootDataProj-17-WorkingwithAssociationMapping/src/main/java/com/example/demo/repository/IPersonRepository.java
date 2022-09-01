@@ -9,7 +9,7 @@ import java.util.List;
 
 public interface IPersonRepository extends JpaRepository<Person, Integer> {
 
-    @Query("select p.pid,p.pname,p.paddr,ph.regno,ph.number_type,ph.phone_number,ph.provider from Person p inner join p.phones ph")
+    @Query("select p.pid,p.pname,p.paddr,ph.regno,ph.number_type,ph.phone_number,ph.provider from Person p inner join PhoneNumber ph")
     public List<Object[]> fetchDataUsingPersonByJoins();
 
 }
